@@ -24,4 +24,3 @@ dataframe = (
 )
 
 print(dataframe.head())
-
