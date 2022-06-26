@@ -1,4 +1,4 @@
-"""Libraries to interact with PostgreSQL and Google Cloud Bigquery."""
+"""Libraries to interact with PostgreSQL and Google Cloud BigQuery."""
 
 import os
 
